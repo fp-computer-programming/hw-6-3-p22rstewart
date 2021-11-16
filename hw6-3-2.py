@@ -1,4 +1,5 @@
 # Author RTS 11/12/21
+
 lst = list(input("Enter a list of numbers: "))
 lst2 = lst.copy()
 lst2.sort()
